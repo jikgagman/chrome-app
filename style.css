@@ -1,0 +1,12 @@
+.h2 {
+  font-weight: bold;
+  font-size: 1.14em;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.printGameResult {
+  font-weight: bold;
+}
